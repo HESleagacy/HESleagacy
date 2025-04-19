@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarva Dubey
 - 👀 I’m interested in Machine Learing
-- 🌱 I’m currently learning Web Dev, C++, C, Python
+- 🌱 I’m currently learning Cyber Security and Machine Learning.
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me... 
 - 😄 Pronouns: He
