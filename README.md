@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarva Dubey
-- 👀 I’m interested in Machine Learing and CyberSecurity
+- 👀 I’m interested in Machine Learing
 - 🌱 I’m currently learning Backend and Machine Learning.
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me...    sarvadubey@gmail.com 
