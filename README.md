@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarva Dubey
-- 📫 How to reach me...    sarvadubey@gmail.com 
+- 📫 How to reach me... I will reach you
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have a reason
 
