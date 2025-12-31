@@ -58,11 +58,6 @@ I care less about demos and more about **systems that keep working**.
   <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres" />
 </p>
 
-### 🔍 API Design & Documentation
-<p>
-  <img src="https://skillicons.dev/icons?i=swagger" />
-</p>
-
 ### 🤖 Data Science & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" />
