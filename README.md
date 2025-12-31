@@ -1,8 +1,7 @@
-# About-me
 # Hi, I'm Sarva 👋
 
 I’m a Computer Science & Data Science undergraduate focused on building
-**production-grade backend systems**, **ML-powered APIs**, and
+**backend systems**, **ML-powered APIs**, and
 **open-source-ready software**.
 
 I enjoy working close to real systems: APIs, data pipelines, model serving,
@@ -11,7 +10,7 @@ and infrastructure that actually survives contact with users.
 ---
 
 ## 🔭 What I’m Working On
-- Backend services using **FastAPI**, **Node.js**, and **PostgreSQL**
+- Backend services using **FastAPI** and **PostgreSQL**
 - ML pipelines for training, inference, and deployment
 - Containerized systems using **Docker** and basic **DevOps workflows**
 - Open-source contributions and GSoC-oriented projects
@@ -30,11 +29,11 @@ and infrastructure that actually survives contact with users.
 
 ### Languages
 - Python, C++, C
-- JavaScript, Go
+
 
 ### Backend & APIs
-- FastAPI, Express.js, Node.js
-- PostgreSQL, MongoDB, Supabase
+- FastAPI
+- PostgreSQL, MongoDB
 - REST APIs, Microservices
 
 ### Machine Learning
@@ -43,10 +42,6 @@ and infrastructure that actually survives contact with users.
 
 ### DevOps & Tools
 - Docker, Git, Linux, Bash
-- GitHub Actions (basic CI)
-- AWS, Google Cloud (foundational)
-- Postman, Figma
-
 ---
 
 ## 🧠 Interests
@@ -58,6 +53,6 @@ and infrastructure that actually survives contact with users.
 ---
 
 ## 🌐 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/HESleagacy
+- LinkedIn: https://linkedin.com/in/sarvadubey
 - Email: sarvadubey@gmail.com
