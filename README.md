@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a **Computer Science & Data Science undergraduate** focused on building  
 **reliable backend systems** and **machine-learning pipelines that survive production**.
@@ -37,7 +37,7 @@ I care less about demos and more about **systems that keep working**.
 
 ---
 
-## 🔭 What I’m Currently Focused On
+##  What I’m Currently Focused On
 
 - Designing **scalable backend services** with FastAPI and clean architecture
 - Building **end-to-end ML pipelines** (training → inference → deployment)
@@ -46,31 +46,31 @@ I care less about demos and more about **systems that keep working**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages & Core
+###  Languages & Core
 <p>
   <img src="https://skillicons.dev/icons?i=py,cpp,c,bash,linux" />
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres" />
 </p>
 
-### 🤖 Data Science & Machine Learning
+###  Data Science & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" />
 </p>
 
-### ☁️ DevOps & Tooling
+###  DevOps & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
 </p>
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
 - Scalable API and microservice design  
 - Applied machine learning systems  
