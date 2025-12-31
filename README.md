@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer_Science-Data_Science-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_MLOps-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_ML-green?style=for-the-badge" />
 </p>
 
 <p align="center">
