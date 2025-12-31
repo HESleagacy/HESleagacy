@@ -55,7 +55,12 @@ I care less about demos and more about **systems that keep working**.
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres" />
+</p>
+
+### 🔍 API Design & Documentation
+<p>
+  <img src="https://skillicons.dev/icons?i=swagger" />
 </p>
 
 ### 🤖 Data Science & Machine Learning
@@ -66,15 +71,6 @@ I care less about demos and more about **systems that keep working**.
 ### ☁️ DevOps & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HESleagacy&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HESleagacy&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
@@ -95,4 +91,3 @@ I care less about demos and more about **systems that keep working**.
 - **Email:** sarvadubey@gmail.com  
 
 ---
-
