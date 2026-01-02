@@ -42,7 +42,7 @@ I care less about demos and more about **systems that keep working**.
 - Designing **scalable backend services** with FastAPI and clean architecture
 - Building **end-to-end ML pipelines** (training → inference → deployment)
 - Learning **MLOps fundamentals**: model versioning, CI/CD, monitoring
-- Preparing for **open-source contributions and GSoC 2026**
+
 
 ---
 
