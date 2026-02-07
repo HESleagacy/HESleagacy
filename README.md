@@ -79,7 +79,6 @@ I care less about demos and more about **systems that keep working**.
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** https://linkedin.com/in/sarvadubey  
-- **GitHub:** https://github.com/HESleagacy  
 - **Email:** sarvadubey@gmail.com  
 
 ---
