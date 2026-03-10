@@ -62,7 +62,7 @@ to inference APIs and production deployment.
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" />
 </p>
 
-### MLOps & DevOps
+### MLOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
 </p>
