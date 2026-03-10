@@ -1,8 +1,8 @@
 # <p align="center">Hi, I'm Sarva 👋</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Science-Data_Science-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_ML-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Artificial_Intelligence-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Deep_Learning_&_MLOps-green?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -15,68 +15,70 @@
 </p>
 
 <p align="center">
-  <strong>Backend Engineer · ML Systems · Open Source Contributor</strong>
+  <strong>AI / ML Engineer · Deep Learning · MLOps · Open Source</strong>
 </p>
 
 ---
 
-##  About Me
+## About Me
 
 I’m a **Computer Science & Data Science undergraduate** focused on building  
-**reliable backend systems** and **machine-learning pipelines that survive production**.
+**practical machine learning systems** that move beyond notebooks and into real applications.
 
-My work sits at the intersection of:
-- API design
-- data & ML workflows
-- infrastructure that doesn’t collapse under real usage
+My interests lie at the intersection of:
 
-I care less about demos and more about **systems that keep working**.
+- **Deep Learning research and implementation**
+- **ML system design**
+- **Model deployment and MLOps infrastructure**
 
----
-
-##  What I’m Currently Focused On
-
-- Designing **scalable backend services** with FastAPI and clean architecture
-- Building **end-to-end ML pipelines** (training → inference → deployment)
-- Learning **MLOps fundamentals**: model versioning, CI/CD, monitoring
-
+I enjoy working on **end-to-end ML systems** — from data pipelines and model training  
+to inference APIs and production deployment.
 
 ---
 
-##  Tech Stack
+## Current Focus
 
-###  Languages & Core
+- Building **Deep Learning models with PyTorch**
+- Designing **reproducible ML training pipelines**
+- Learning **MLOps practices**: experiment tracking, model versioning, CI/CD for ML
+- Developing **ML-powered APIs and inference services**
+
+---
+
+## Tech Stack
+
+### Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux" />
 </p>
 
-###  Backend & Databases
+### Machine Learning & Deep Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" />
 </p>
 
-###  Data Science & Machine Learning
+### Backend & ML APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" />
 </p>
 
-###  DevOps & Tooling
+### MLOps & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
 </p>
 
 ---
 
-##  Areas of Interest
+## Areas of Interest
 
-- Scalable API and microservice design  
-- Applied machine learning systems  
-- MLOps and production ML workflows  
-- Developer tooling and automation  
+- Deep Learning architectures and training systems  
+- ML model deployment and inference optimization  
+- MLOps pipelines and reproducible experimentation  
+- Applied AI systems and open-source ML tools  
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 - **LinkedIn:** https://linkedin.com/in/sarvadubey  
 - **Email:** sarvadubey@gmail.com  
