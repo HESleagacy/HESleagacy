@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sarvadubey"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/HESleagacy"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/GrandRegentSarva"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://codechef.com/users/sarva_dubey"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
   <a href="mailto:sarvadubey@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
@@ -14,27 +14,27 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HESleagacy&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=21262d" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GrandRegentSarva&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=21262d" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HESleagacy&theme=github_dark" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrandRegentSarva&theme=github_dark" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HESleagacy&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HESleagacy&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HESleagacy&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrandRegentSarva&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GrandRegentSarva&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandRegentSarva&theme=github_dark" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HESleagacy&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Contribution+Activity" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GrandRegentSarva&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Contribution+Activity" width="98%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HESleagacy/HESleagacy/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GrandRegentSarva/GrandRegentSarva/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
