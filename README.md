@@ -31,11 +31,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GrandRegentSarva&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Contribution+Activity" width="98%" />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GrandRegentSarva/GrandRegentSarva/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <br/>
 
